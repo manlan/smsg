@@ -1,0 +1,183 @@
+{\rtf1\ansi\ansicpg936\cocoartf1343\cocoasubrtf140
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 STSongti-SC-Regular;\f2\fnil\fcharset0 Menlo-Regular;
+\f3\froman\fcharset0 Times-Roman;\f4\fnil\fcharset128 HiraMinProN-W3;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 \
+\pard\pardeftab720\sa240
+
+\f1\fs30 \cf0 \expnd0\expndtw0\kerning0
+\'b2\'ce\'bf\'bc
+\f2 \expnd0\expndtw0\kerning0
+: 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+== 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f2\fs30 \cf0 \expnd0\expndtw0\kerning0
+http://blog.csdn.net/xiaominghimi/article/details/7339974\
+\pard\pardeftab720\sa240
+\cf0 \expnd0\expndtw0\kerning0
+0\uc0\u8232 
+\f1 \expnd0\expndtw0\kerning0
+\'bd\'f8\uc0\u12042 \'c8\'eb
+\f3  
+\f2 \expnd0\expndtw0\kerning0
+- 
+\f1 \expnd0\expndtw0\kerning0
+\uc0\u12079 \'b9\'a4\'be\'df
+\f4 \uc0\u11947 \u12140 \'96\'da
+\f1 \'c2\'bc
+\f3 \uc0\u8232 
+\f2 \expnd0\expndtw0\kerning0
+cd /Users/manlan/my/project/cocos2d-x-2.2.2/tools/project-creator 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+1 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f1\fs30 \expnd0\expndtw0\kerning0
+\'b4\'b4\'bd\'a8\'cf\'ee
+\f4 \uc0\u11947 \u12140 \'96\'da
+\f3  
+\fs24 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f2\fs30 \cf0 \expnd0\expndtw0\kerning0
+./create_project.py -project game1 -package com.game1.ice -language\
+cpp\
+./create_project.py -project game2 -package com.game2.ice -language\
+cpp\
+\pard\pardeftab720\sa240
+\cf0 \expnd0\expndtw0\kerning0
+==\uc0\u8232 1\u8232 
+\f1 \expnd0\expndtw0\kerning0
+\'c9\'e8\'d6\'c3
+\f2 \expnd0\expndtw0\kerning0
+: .bash_profile 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f2\fs30 \cf0 \expnd0\expndtw0\kerning0
+export ANDROID_SDK_ROOT=/Users/manlan/Downloads/andadt/sdk\
+export ANDROID_NDK_ROOT=/Users/manlan/Downloads/andndk\
+export COCOS2DX_ROOT=/Users/manlan/my/project/cocos2d-x-2.2.2\
+export NDK_ROOT=/Users/manlan/Downloads/andndk\
+export PATH=$PATH:$ANDROID_SDK_ROOT\
+export PATH=$PATH:$ANDROID_NDK_ROOT\
+\pard\pardeftab720\sa240
+\cf0 \expnd0\expndtw0\kerning0
+2 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f1\fs30 \expnd0\expndtw0\kerning0
+\'b1\'e0\'d2\'eb
+\f3  
+\fs24 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f2\fs30 \cf0 \expnd0\expndtw0\kerning0
+./build_native.sh\
+3\
+\pard\pardeftab720\sa240
+
+\f1 \cf0 \expnd0\expndtw0\kerning0
+\'b8\'b4\'d6\'c6
+\f2 \expnd0\expndtw0\kerning0
+: 
+\f1 \expnd0\expndtw0\kerning0
+\'b5\'bd
+\f2 \expnd0\expndtw0\kerning0
+src
+\f4 \expnd0\expndtw0\kerning0
+\uc0\u11947 \u12140 \'96\'da
+\f1 \'c2\'bc\'d6\'d0
+\f3  
+\f2 \expnd0\expndtw0\kerning0
+/org/ 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+4 
+\f1 \expnd0\expndtw0\kerning0
+\'b5\'bc\uc0\u12042 \'c8\'eb
+\f2 \expnd0\expndtw0\kerning0
+:
+\f1 \expnd0\expndtw0\kerning0
+\'b5\'bd
+\f2 \expnd0\expndtw0\kerning0
+android
+\f1 \expnd0\expndtw0\kerning0
+\'cf\'ee
+\f4 \uc0\u11947 \u12140 \'96\'da
+\f3  
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+1.
+\f1 \expnd0\expndtw0\kerning0
+\'b4\'d3\'d2\'d1\'d3\'d0\'b4\'fa\'c2\'eb\'b5\'bc\uc0\u12042 \'c8\'eb
+\f2 \expnd0\expndtw0\kerning0
+: android 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+5 
+\f1 \expnd0\expndtw0\kerning0
+\'d4\'cb\uc0\u12175 \'d0\'d0
+\f2 \expnd0\expndtw0\kerning0
+: 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+==\uc0\u8232 1. 
+\f1 \expnd0\expndtw0\kerning0
+\'d4\'da
+\f2 \expnd0\expndtw0\kerning0
+adt
+\f1 \expnd0\expndtw0\kerning0
+\'d6\'d0\'b1\'e0\'d2\'eb
+\f3  
+\fs24 \expnd0\expndtw0\kerning0
+\
+
+\f2\fs30 \expnd0\expndtw0\kerning0
+# paths - 
+\f1 \expnd0\expndtw0\kerning0
+\'d4\'da
+\f2 \expnd0\expndtw0\kerning0
+path
+\f1 \expnd0\expndtw0\kerning0
+\'c7\'b0\'bc\'d3\'c2\'b7\'be\'b6
+\f2 \expnd0\expndtw0\kerning0
+... 
+\f3\fs24 \expnd0\expndtw0\kerning0
+\
+\pard\pardeftab720
+
+\f2\fs30 \cf0 \expnd0\expndtw0\kerning0
+ANDROID_SDK_ROOT=/Users/manlan/Downloads/andadt/sdk\
+ANDROID_NDK_ROOT=/Users/manlan/Downloads/andndk\
+COCOS2DX_ROOT=/Users/manlan/my/project/cocos2d-x-2.2.2\
+NDK_ROOT=/Users/manlan/Downloads/andndk\
+PATH=$PATH:$ANDROID_SDK_ROOT\
+PATH=$PATH:$ANDROID_NDK_ROOT\
+}
